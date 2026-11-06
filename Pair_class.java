@@ -10,3 +10,4 @@ static class Pair implements Comparable<Pair>{
            return this.cost-p2.cost;
         }
     }
+//this pair class is used to demonstrate the cost and vertices of a node of graph
