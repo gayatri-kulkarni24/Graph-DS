@@ -14,3 +14,5 @@
             }
         }
     }
+
+//actually this is breadth first search which takes a node of graph and visits its connected nodes
